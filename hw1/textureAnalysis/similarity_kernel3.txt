@@ -1,0 +1,350 @@
+consolidation_1.jpg
+truth 12229
+result 194674
+interset 11755consolidation_10.jpg
+truth 16048
+result 197390
+interset 13124consolidation_11.jpg
+truth 14763
+result 201288
+interset 13635consolidation_12.jpg
+truth 15974
+result 200065
+interset 14782consolidation_2.jpg
+truth 12847
+result 193339
+interset 12467consolidation_3.jpg
+truth 12273
+result 197083
+interset 11119consolidation_4.jpg
+truth 14833
+result 197088
+interset 13193consolidation_5.jpg
+truth 13914
+result 197406
+interset 12332consolidation_6.jpg
+truth 14496
+result 199479
+interset 12756consolidation_7.jpg
+truth 14353
+result 198746
+interset 12539consolidation_8.jpg
+truth 14928
+result 198088
+interset 12205consolidation_9.jpg
+truth 14873
+result 198862
+interset 12196ground glass opacity_13.jpg
+truth 17073
+result 222534
+interset 7736ground glass opacity_14.jpg
+truth 24481
+result 207661
+interset 7306ground glass opacity_15.jpg
+truth 24632
+result 206852
+interset 7329ground glass opacity_16.jpg
+truth 19402
+result 209389
+interset 6775ground glass opacity_17.jpg
+truth 19574
+result 209206
+interset 6308ground glass opacity_18.jpg
+truth 17464
+result 217475
+interset 6871ground glass opacity_19.jpg
+truth 16456
+result 217793
+interset 6675ground glass opacity_20.jpg
+truth 16444
+result 218020
+interset 6828ground glass opacity_21.jpg
+truth 10299
+result 227792
+interset 5448ground glass opacity_22.jpg
+truth 11692
+result 227558
+interset 5664honeycombing_23.jpg
+truth 22453
+result 231826
+interset 12948honeycombing_24.jpg
+truth 26379
+result 222816
+interset 12110honeycombing_25.jpg
+truth 26399
+result 221668
+interset 12145honeycombing_26.jpg
+truth 31517
+result 208931
+interset 14548honeycombing_27.jpg
+truth 27007
+result 202732
+interset 12736honeycombing_28.jpg
+truth 19313
+result 203369
+interset 12602honeycombing_29.jpg
+truth 21344
+result 205320
+interset 13556honeycombing_30.jpg
+truth 16992
+result 217028
+interset 12645honeycombing_31.jpg
+truth 14845
+result 236368
+interset 13462micro-nodule_32.jpg
+truth 16147
+result 188578
+interset 12243micro-nodule_33.jpg
+truth 16818
+result 188606
+interset 12077micro-nodule_34.jpg
+truth 19513
+result 190259
+interset 11292micro-nodule_35.jpg
+truth 17654
+result 190735
+interset 11510micro-nodule_36.jpg
+truth 17919
+result 190841
+interset 11463micro-nodule_37.jpg
+truth 18407
+result 191210
+interset 11585micro-nodule_38.jpg
+truth 19243
+result 190901
+interset 11562micro-nodule_39.jpg
+truth 17232
+result 190032
+interset 11102micro-nodule_40.jpg
+truth 17626
+result 196143
+interset 12103micro-nodule_41.jpg
+truth 17830
+result 196294
+interset 12478reticulation_42.jpg
+truth 17798
+result 224068
+interset 10202reticulation_43.jpg
+truth 19605
+result 221781
+interset 11653reticulation_44.jpg
+truth 19044
+result 221247
+interset 11723reticulation_45.jpg
+truth 21249
+result 213121
+interset 13023reticulation_46.jpg
+truth 21791
+result 208098
+interset 11751reticulation_47.jpg
+truth 25328
+result 210804
+interset 12876reticulation_48.jpg
+truth 24266
+result 207081
+interset 12881reticulation_49.jpg
+truth 20509
+result 207295
+interset 11758reticulation_50.jpg
+truth 19951
+result 214235
+interset 11476consolidation_1.jpg
+truth 12229
+result 194674
+interset 11755
+consolidation_10.jpg
+truth 16048
+result 197390
+interset 13124
+consolidation_11.jpg
+truth 14763
+result 201288
+interset 13635
+consolidation_12.jpg
+truth 15974
+result 200065
+interset 14782
+consolidation_2.jpg
+truth 12847
+result 193339
+interset 12467
+consolidation_3.jpg
+truth 12273
+result 197083
+interset 11119
+consolidation_4.jpg
+truth 14833
+result 197088
+interset 13193
+consolidation_5.jpg
+truth 13914
+result 197406
+interset 12332
+consolidation_6.jpg
+truth 14496
+result 199479
+interset 12756
+consolidation_7.jpg
+truth 14353
+result 198746
+interset 12539
+consolidation_8.jpg
+truth 14928
+result 198088
+interset 12205
+consolidation_9.jpg
+truth 14873
+result 198862
+interset 12196
+ground glass opacity_13.jpg
+truth 17073
+result 222534
+interset 7736
+ground glass opacity_14.jpg
+truth 24481
+result 207661
+interset 7306
+ground glass opacity_15.jpg
+truth 24632
+result 206852
+interset 7329
+ground glass opacity_16.jpg
+truth 19402
+result 209389
+interset 6775
+ground glass opacity_17.jpg
+truth 19574
+result 209206
+interset 6308
+ground glass opacity_18.jpg
+truth 17464
+result 217475
+interset 6871
+ground glass opacity_19.jpg
+truth 16456
+result 217793
+interset 6675
+ground glass opacity_20.jpg
+truth 16444
+result 218020
+interset 6828
+ground glass opacity_21.jpg
+truth 10299
+result 227792
+interset 5448
+ground glass opacity_22.jpg
+truth 11692
+result 227558
+interset 5664
+honeycombing_23.jpg
+truth 22453
+result 231826
+interset 12948
+honeycombing_24.jpg
+truth 26379
+result 222816
+interset 12110
+honeycombing_25.jpg
+truth 26399
+result 221668
+interset 12145
+honeycombing_26.jpg
+truth 31517
+result 208931
+interset 14548
+honeycombing_27.jpg
+truth 27007
+result 202732
+interset 12736
+honeycombing_28.jpg
+truth 19313
+result 203369
+interset 12602
+honeycombing_29.jpg
+truth 21344
+result 205320
+interset 13556
+honeycombing_30.jpg
+truth 16992
+result 217028
+interset 12645
+honeycombing_31.jpg
+truth 14845
+result 236368
+interset 13462
+micro-nodule_32.jpg
+truth 16147
+result 188578
+interset 12243
+micro-nodule_33.jpg
+truth 16818
+result 188606
+interset 12077
+micro-nodule_34.jpg
+truth 19513
+result 190259
+interset 11292
+micro-nodule_35.jpg
+truth 17654
+result 190735
+interset 11510
+micro-nodule_36.jpg
+truth 17919
+result 190841
+interset 11463
+micro-nodule_37.jpg
+truth 18407
+result 191210
+interset 11585
+micro-nodule_38.jpg
+truth 19243
+result 190901
+interset 11562
+micro-nodule_39.jpg
+truth 17232
+result 190032
+interset 11102
+micro-nodule_40.jpg
+truth 17626
+result 196143
+interset 12103
+micro-nodule_41.jpg
+truth 17830
+result 196294
+interset 12478
+reticulation_42.jpg
+truth 17798
+result 224068
+interset 10202
+reticulation_43.jpg
+truth 19605
+result 221781
+interset 11653
+reticulation_44.jpg
+truth 19044
+result 221247
+interset 11723
+reticulation_45.jpg
+truth 21249
+result 213121
+interset 13023
+reticulation_46.jpg
+truth 21791
+result 208098
+interset 11751
+reticulation_47.jpg
+truth 25328
+result 210804
+interset 12876
+reticulation_48.jpg
+truth 24266
+result 207081
+interset 12881
+reticulation_49.jpg
+truth 20509
+result 207295
+interset 11758
+reticulation_50.jpg
+truth 19951
+result 214235
+interset 11476

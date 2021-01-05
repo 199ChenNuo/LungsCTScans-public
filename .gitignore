@@ -1,1 +1,9 @@
 图像处理大作业一/
+hw1/parenchyma/traditional/output/
+hw1/parenchyma/traditional/failedAttemp/
+hw1/parenchyma/network-lungmask/smooth/
+hw1/parenchyma/network-lungmask/non-smooth/
+hw1/textureAnalysis/consolidation/
+hw1/textureAnalysis/disease/
+hw1/textureAnalysis/mask/
+hw1/textureAnalysis/visual/

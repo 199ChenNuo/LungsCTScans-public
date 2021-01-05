@@ -1,0 +1,250 @@
+consolidation_1.jpg
+both_count 401
+count 2856
+truth_count 812
+result_count 2445
+consolidation_2.jpg
+both_count 317
+count 2890
+truth_count 703
+result_count 2504
+consolidation_3.jpg
+both_count 277
+count 3116
+truth_count 2217
+result_count 1176
+consolidation_4.jpg
+both_count 1573
+count 6353
+truth_count 3675
+result_count 4251
+consolidation_5.jpg
+both_count 1861
+count 6807
+truth_count 4285
+result_count 4383
+consolidation_6.jpg
+both_count 2839
+count 9660
+truth_count 6222
+result_count 6277
+consolidation_7.jpg
+both_count 3644
+count 10701
+truth_count 6361
+result_count 7984
+consolidation_8.jpg
+both_count 454
+count 8862
+truth_count 7208
+result_count 2108
+consolidation_9.jpg
+both_count 443
+count 8712
+truth_count 7272
+result_count 1883
+consolidation_10.jpg
+both_count 1395
+count 11858
+truth_count 7220
+result_count 6033
+consolidation_11.jpg
+both_count 4466
+count 9920
+truth_count 6660
+result_count 7726
+consolidation_12.jpg
+both_count 5443
+count 12428
+truth_count 6740
+result_count 11131
+ground glass opacity_13.jpg
+both_count 695
+count 18188
+truth_count 17804
+result_count 1079
+ground glass opacity_14.jpg
+both_count 2494
+count 35669
+truth_count 35226
+result_count 2937
+ground glass opacity_15.jpg
+both_count 3053
+count 34811
+truth_count 34416
+result_count 3448
+ground glass opacity_16.jpg
+both_count 1196
+count 23285
+truth_count 22837
+result_count 1644
+ground glass opacity_17.jpg
+both_count 520
+count 23806
+truth_count 23323
+result_count 1003
+ground glass opacity_18.jpg
+both_count 922
+count 19125
+truth_count 18830
+result_count 1217
+ground glass opacity_19.jpg
+both_count 720
+count 17615
+truth_count 17306
+result_count 1029
+ground glass opacity_20.jpg
+both_count 713
+count 17251
+truth_count 16985
+result_count 979
+ground glass opacity_21.jpg
+both_count 530
+count 8656
+truth_count 8376
+result_count 810
+ground glass opacity_22.jpg
+both_count 774
+count 10499
+truth_count 10230
+result_count 1043
+honeycombing_23.jpg
+both_count 1744
+count 20512
+truth_count 19828
+result_count 2428
+honeycombing_24.jpg
+both_count 2288
+count 31480
+truth_count 30779
+result_count 2989
+honeycombing_25.jpg
+both_count 2364
+count 31969
+truth_count 31083
+result_count 3250
+honeycombing_26.jpg
+both_count 4624
+count 39709
+truth_count 38442
+result_count 5891
+honeycombing_27.jpg
+both_count 4566
+count 32920
+truth_count 30254
+result_count 7232
+honeycombing_28.jpg
+both_count 2595
+count 18067
+truth_count 13934
+result_count 6728
+honeycombing_29.jpg
+both_count 3161
+count 20238
+truth_count 17016
+result_count 6383
+honeycombing_30.jpg
+both_count 783
+count 10822
+truth_count 8348
+result_count 3257
+honeycombing_31.jpg
+both_count 314
+count 3334
+truth_count 2444
+result_count 1204
+micro-nodule_32.jpg
+both_count 0
+count 4501
+truth_count 3582
+result_count 919
+micro-nodule_33.jpg
+both_count 11
+count 5591
+truth_count 4743
+result_count 859
+micro-nodule_34.jpg
+both_count 24
+count 8915
+truth_count 7676
+result_count 1263
+micro-nodule_35.jpg
+both_count 29
+count 7348
+truth_count 5981
+result_count 1396
+micro-nodule_36.jpg
+both_count 4
+count 7757
+truth_count 6378
+result_count 1383
+micro-nodule_37.jpg
+both_count 5
+count 7912
+truth_count 6581
+result_count 1336
+micro-nodule_38.jpg
+both_count 2
+count 8549
+truth_count 7478
+result_count 1073
+micro-nodule_39.jpg
+both_count 2
+count 7197
+truth_count 5709
+result_count 1490
+micro-nodule_40.jpg
+both_count 10
+count 7049
+truth_count 5606
+result_count 1453
+micro-nodule_41.jpg
+both_count 22
+count 6404
+truth_count 5241
+result_count 1185
+reticulation_42.jpg
+both_count 2476
+count 17757
+truth_count 16822
+result_count 3411
+reticulation_43.jpg
+both_count 2082
+count 17966
+truth_count 17050
+result_count 2998
+reticulation_44.jpg
+both_count 2009
+count 16905
+truth_count 15975
+result_count 2939
+reticulation_45.jpg
+both_count 3026
+count 18919
+truth_count 17174
+result_count 4771
+reticulation_46.jpg
+both_count 1854
+count 24996
+truth_count 23305
+result_count 3545
+reticulation_47.jpg
+both_count 2133
+count 30034
+truth_count 28499
+result_count 3668
+reticulation_48.jpg
+both_count 2017
+count 26980
+truth_count 25138
+result_count 3859
+reticulation_49.jpg
+both_count 1868
+count 18894
+truth_count 16800
+result_count 3962
+reticulation_50.jpg
+both_count 738
+count 16704
+truth_count 15661
+result_count 1781
